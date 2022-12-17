@@ -50,8 +50,6 @@ def main():
             print(error.message)
 
 
-
-
 if __name__ == '__main__':
     main()
 
